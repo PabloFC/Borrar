@@ -4,7 +4,6 @@
 
 ## Solo estoy practicando el Readme
 
-``
-<h1> Hola mundo </h1>
-
-``
+```html
+<p> Utilizando la etiqueta template </p>
+```
